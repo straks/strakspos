@@ -1,2 +1,3 @@
-# strakspos
-A simple self-hosted STRAKS point-of-sale server
+### Moved to STRAKS GitLab repository:
+
+https://lab.straks.co/straks/strakspos
